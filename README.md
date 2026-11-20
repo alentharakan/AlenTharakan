@@ -33,3 +33,14 @@ Cybersecurity labs, networking projects, and learning resources will be added he
 
 ---
 ⭐ Always learning, exploring, and improving.
+
+## 🛠️ Technical Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00875A?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

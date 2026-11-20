@@ -44,3 +44,11 @@ Cybersecurity labs, networking projects, and learning resources will be added he
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
 ![Cloud Security](https://img.shields.io/badge/Cloud_Security-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alentharakan&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alentharakan&layout=compact&theme=tokyonight)

@@ -52,3 +52,12 @@ Cybersecurity labs, networking projects, and learning resources will be added he
 ## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alentharakan&layout=compact&theme=tokyonight)
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alentharakan)
+
+---
+
+⭐ Always learning, exploring, and improving my skills in Cybersecurity and Network Security.

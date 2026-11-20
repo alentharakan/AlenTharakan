@@ -61,3 +61,7 @@ Cybersecurity labs, networking projects, and learning resources will be added he
 ---
 
 ⭐ Always learning, exploring, and improving my skills in Cybersecurity and Network Security.
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=alentharakan&color=0e75b6&style=for-the-badge)

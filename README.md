@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity, computer netwo
 
 ## 🛡️ Areas of Interest
 - Cybersecurity & Network Security
+- Cloud Security
 - Ethical Hacking
 - Linux & System Administration
 - Network Analysis

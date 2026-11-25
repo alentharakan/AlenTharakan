@@ -45,15 +45,15 @@ Cybersecurity labs, networking projects, and learning resources will be added he
 ![Cloud Security](https://img.shields.io/badge/Cloud_Security-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alentharakan&show_icons=true&theme=tokyonight)
 
-## 💻 Most Used Languages
+##  Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alentharakan&layout=compact&theme=tokyonight)
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alen-j-tharakan-976303251)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alentharakan)

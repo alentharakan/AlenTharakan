@@ -1,16 +1,16 @@
 # Hi there, I'm Alen J Tharakan 👋
 
-### 🔐 MCA Cyber Security Student | Cybersecurity & Networking Enthusiast
+###  MCA Cyber Security Student | Cybersecurity & Networking Enthusiast
 
 Welcome to my GitHub profile! I'm passionate about cybersecurity, computer networking, and learning how to build and secure modern systems.
 
-## 👨‍💻 About Me
+##  About Me
 - 🎓 Pursuing MCA in Cyber Security
 - 🌐 Interested in Network Security and Cybersecurity
 - 🐧 Exploring Linux and Security Technologies
 - 🚀 Building my technical knowledge through hands-on practice
 
-## 🛡️ Areas of Interest
+##  Areas of Interest
 - Cybersecurity & Network Security
 - Cloud Security
 - Ethical Hacking
@@ -18,23 +18,23 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity, computer netwo
 - Network Analysis
 - Security Research
 
-## 📚 Currently Learning
+##  Currently Learning
 - Networking Fundamentals
 - Linux Security
 - Cybersecurity Tools
 - Python Programming
 - Network Traffic Analysis
 
-## 🚀 My Projects
+##  My Projects
 Cybersecurity labs, networking projects, and learning resources will be added here.
 
-## 📫 Connect With Me
+##  Connect With Me
 - LinkedIn: www.linkedin.com/in/alen-j-tharakan-976303251
 
 ---
 ⭐ Always learning, exploring, and improving.
 
-## 🛠️ Technical Skills & Tools
+##  Technical Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
